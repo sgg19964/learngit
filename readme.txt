@@ -1,4 +1,4 @@
 Git is a distributed bersion control system
 Git is free software distributed under the GPL.
 Git has a mutable index called state.
-Git tracks change.
+Git tracks change of files.
